@@ -1,0 +1,6 @@
+README.md
+setup.py
+Shipment.egg-info/PKG-INFO
+Shipment.egg-info/SOURCES.txt
+Shipment.egg-info/dependency_links.txt
+Shipment.egg-info/top_level.txt
