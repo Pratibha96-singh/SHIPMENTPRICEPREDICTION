@@ -8,5 +8,4 @@ setup(
     author_email='singhpinki6060@gmail.com',
     packages=find_packages(),
     install_requires=[]
-
 )
